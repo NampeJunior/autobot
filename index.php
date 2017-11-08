@@ -1,3 +1,3 @@
 <php
-echo 'NamWhan';
- 
+echo 'Namwhan';
+ ?>
